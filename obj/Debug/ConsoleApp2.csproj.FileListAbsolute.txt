@@ -1,0 +1,14 @@
+C:\VsHadasim\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\VsHadasim\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\VsHadasim\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\VsHadasim\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\VsHadasim\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\VsHadasim\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\VsHadasim\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\hodle\Downloads\TaskHadasim - יעל שוחט\bin\Debug\ConsoleApp2.exe.config
+C:\Users\hodle\Downloads\TaskHadasim - יעל שוחט\bin\Debug\ConsoleApp2.exe
+C:\Users\hodle\Downloads\TaskHadasim - יעל שוחט\bin\Debug\ConsoleApp2.pdb
+C:\Users\hodle\Downloads\TaskHadasim - יעל שוחט\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\hodle\Downloads\TaskHadasim - יעל שוחט\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\hodle\Downloads\TaskHadasim - יעל שוחט\obj\Debug\ConsoleApp2.exe
+C:\Users\hodle\Downloads\TaskHadasim - יעל שוחט\obj\Debug\ConsoleApp2.pdb
